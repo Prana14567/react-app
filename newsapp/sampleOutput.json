@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 3318,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "BBC signs new four-year audio deal for ICC events",
+        "description": "The BBC signs a new four-year audio deal with the International Cricket Council (ICC) to broadcast all major global tournaments.",
+        "url": "https://www.bbc.com/sport/cricket/articles/c14454kkg9ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/1321/live/7c2fa750-1e66-11ef-a133-cf78601b4a93.jpg",
+        "publishedAt": "2024-05-30T09:31:22Z",
+        "content": "The BBC has signed a new four-year audio deal with the International Cricket Council (ICC) to broadcast all major global tournaments. \r\nIt means the BBC will have ball-by-ball commentary on every tou… [+1407 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "College pays tribute to teenager killed in crash",
+        "description": "Dafydd Hûw Craven-Jones, 18, and his front-seat passenger died after a single-vehicle crash on Saturday",
+        "url": "https://www.bbc.com/news/articles/cd11l7qzveqo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1214/live/6e344370-1d9b-11ef-80aa-699d54c46324.jpg",
+        "publishedAt": "2024-05-29T10:04:15Z",
+        "content": "Shyamantha Asokan,BBC News, West Midlands\r\nDafydd Hûw Craven-Jones (left), who studied at Ellesmere College, and Morgan Jones died in the crash on Saturday\r\nA teenager who died in a car crash at the … [+1919 chars]"
+      }
+    ]
+    }
